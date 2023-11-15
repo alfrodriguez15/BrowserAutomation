@@ -1,0 +1,3 @@
+There would be two changes needed for the tests to work. The first one would be to change the
+"correct url"test from expecting "google.com"to "duckduckgo.com".
+The seconde change wpuld be to change the laqst test(open page) to false as the test checks if the page is closed, not open.
